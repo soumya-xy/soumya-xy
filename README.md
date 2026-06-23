@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soumya-xy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning backend developmet
-- 😄 Pronouns: he
+ 
 
 
 <!---
