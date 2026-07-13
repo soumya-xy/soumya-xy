@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jainsoumya2305@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10OeXBOUc0iRQoUM36WSJ3U9Xq-96ounj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CpZU7lPmO3bbFmTAmMToZd7QorHy4OLu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
