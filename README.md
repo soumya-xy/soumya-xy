@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumya jain</h1>
+<h1>Hi 👋, I'm Soumya jain</h1>
 
 
 - 🌱 I’m currently learning **AI frameworks and RAG systems**
