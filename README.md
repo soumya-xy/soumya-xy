@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI frameworks and RAG systems**
 
-- 👨‍💻 All of my projects are available at [My_portfolio](https://soumy-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My_portfolio](https://soumyajain.vercel.app/)
 
 - 📫 How to reach me **jainsoumya2305@gmail.com**
 
